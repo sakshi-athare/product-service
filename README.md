@@ -51,6 +51,11 @@ placing an order.
 4. Test APIs using Postman
 
 ---
+## Related Repositories
+- Service Registry: https://github.com/sakshi-athare/service-registry
+- User Service: https://github.com/sakshi-athare/user-service
+- Order Service: https://github.com/sakshi-athare/order-service
+
 
 ## Future Improvements
 - Inventory management enhancements
